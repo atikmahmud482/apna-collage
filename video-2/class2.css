@@ -9,3 +9,16 @@
     height: 60px;
     background-color: #333;
 }
+
+button {
+    background-color: #f08804;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 24px;
+}
+
+a {
+    margin-right: 100px;
+}
